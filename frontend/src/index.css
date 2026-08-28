@@ -1,0 +1,47 @@
+:root {
+  --teal: #1f6b63;
+  --teal-dark: #154f4a;
+  --teal-soft: #e7f3f1;
+  --text: #1a2332;
+  --muted: #6b7280;
+  --bg: #f6f7f6;
+  --card: #ffffff;
+  --border: #e5e7eb;
+  --danger: #b42318;
+  --shadow: 0 10px 30px rgba(21, 79, 74, 0.08);
+  --sans: "Helvetica Neue", Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--sans);
+  color: var(--text);
+  background: var(--bg);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
