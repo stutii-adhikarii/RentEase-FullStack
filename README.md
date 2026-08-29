@@ -129,15 +129,14 @@ The app should now be running at `http://localhost:3000`, with the API served fr
 
 ## 🖼️ Screenshots
 
-> Add screenshots of the landlord dashboard, tenant dashboard, listings page, and messaging UI here once available.
 
-| Landlord Listing | Tenant Dashboard |
-|---|---|
-| _screenshot here_ | _screenshot here_ |
+|         Landlord Listing        |       Tenant Dashboard          |
+|---------------------------------|---------------------------------|
+| <img src="ss2.png" width="90%"> | <img src="ss1.png" width="90%"> |
 
-| Listings Page | Messaging |
-|---|---|
-| _screenshot here_ | _screenshot here_ |
+|          User Favorite          |            Inquiry              |
+|---------------------------------|---------------------------------|
+| <img src="ss3.png" width="90%"> | <img src="ss4.png" width="90%"> |
 
 ---
 
