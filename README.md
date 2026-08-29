@@ -146,9 +146,6 @@ The app should now be running at `http://localhost:3000`, with the API served fr
 - [ ] Payment integration for rent collection
 - [ ] Document upload (lease agreements, ID verification)
 - [ ] Ratings & reviews for landlords/tenants
-- [ ] Admin panel for platform oversight
-- [ ] Search filters (price range, location, amenities)
-- [ ] Deployment (e.g. Render/Vercel + MongoDB Atlas)
 
 ---
 
@@ -167,7 +164,7 @@ RentEase was built collaboratively as a group full-stack project.
 
 ## 📄 License
 
-This project is open for academic and portfolio purposes.
+This project is open for team members academic and portfolio purposes.
 
 ---
 
